@@ -58,7 +58,7 @@ struct ContentView: View {
                         .frame(width: 325,  height: 525)
                         .cornerRadius(15)
                     Text("")
-                    Text("My name is Talynn Tang and I am 18 years old. I love hanging out with friends, trying new hobbies, working out and staying active (at least trying to lol), and baking. I LOVE concerts, so I'm the person to ask to camp out 12 hours in line for barricade.")
+                    Text("My name is Talynn Tang and I am 18 years old. I love hanging out with friends, trying new hobbies, working out and staying active (at least trying to lol), and baking. I LOVE concerts, so I'm the person to ask to camp out 12 hours in line for barricade")
                         .font(.custom("Nauman-Regular", size: 16))
                         .fontWeight(.regular)
                         .multilineTextAlignment(.center)
